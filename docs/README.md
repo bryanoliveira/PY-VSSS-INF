@@ -12,7 +12,9 @@ You can find our Team Description Paper [here](https://github.com/bryanoliveira/
 - Qt interface
 
 <div align="center">
+<a href="https://www.youtube.com/watch?v=JQVrX5h7u_8">
 <img src="https://github.com/bryanoliveira/PY-VSSS-INF/blob/master/docs/images/Simulator.gif" width="550"/>
+</a>
 </div>
 
 > Our simulator running two instances of the same control system. Green arrows indicate the robot's movement direction (given by the vector field), and blue, yellow, and red arrows indicate goalie, defender and attacker's targets. 
@@ -36,6 +38,14 @@ To open the GUI we use on our competitions, run:
 To open our simulator, run:
 
 `python aether.py`
+
+<div align="center">
+<a href="https://www.youtube.com/watch?v=UBV4qlAJ-sc">
+<img src="https://github.com/bryanoliveira/PY-VSSS-INF/blob/master/docs/images/Kick.gif" width="600"/>
+</a>
+</div>
+
+> A kick motion performed by the robot control system using univector fields and simulated with MuJoCo. 
 
 ## Social networks
 
